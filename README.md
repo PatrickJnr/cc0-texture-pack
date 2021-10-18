@@ -1,13 +1,14 @@
+
 # cc0-texture-pack
 cc0 textures for the use in Source 2
-Coming soon to a Source 2 Engine near you!
-Will be slowly updating this pack to add more materials from cc0
 
-# Zoo Map [vmap]
-Will be updated with each upload to represent each material
+# 1,144 assets
+A total of 1,144 assets, enjoy.
 
-# A Pack [21 Materials]
-This contains:
- - Acoustic Foam 1-3
- - Asphalt 4-19
- - Asphalt Damage 1-2
+# Issues?
+If there is an issue with a texture, please post an [**issue**](https://github.com/PatrickJnr/cc0-texture-pack/issues/new) on the GitHub, and I'll get around to fixing it!
+
+# Credits
+```
+Contains assets from ambientCG.com, licensed under CC0 1.0 Universal.
+```
